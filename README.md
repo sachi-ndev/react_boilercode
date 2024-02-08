@@ -1,5 +1,5 @@
 
-# React Boilercode
+# React 
 
 Here is a boiler code for React startup apps in vite,
 
